@@ -73,9 +73,9 @@ Advanced Penetration Testing · Web Application Security · SOC & SIEM · EDR / 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/manish-rajput-4477r
+- 💼 LinkedIn: https://www.linkedin.com/in/manish-rajput-4477r
 - 📧 Email: rajputmanishrajput81@gmail.com
-- 🐙 GitHub: [Your GitHub Profile]
+- 🐙 GitHub: https://github.com/manishrajpoot4
 
 ---
 
